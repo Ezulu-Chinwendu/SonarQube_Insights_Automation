@@ -9,13 +9,13 @@ A detailed explanation of the project on Medium (link below)
 
 
 # Project Overview
-Fetches metrics such as code coverage, bugs, vulnerabilities, and code smells from the SonarQube API.
+1. Fetches metrics such as code coverage, bugs, vulnerabilities, and code smells from the SonarQube API.
 
-Writes the extracted metrics into a Google Sheet using the Google Sheets API.
+2. Writes the extracted metrics into a Google Sheet using the Google Sheets API.
 
-Enables easy integration with Looker Studio for beautiful and dynamic dashboards.
+3. Enables easy integration with Looker Studio for beautiful and dynamic dashboards.
 
-Scheduled to run automatically (e.g., daily/weekly) using Google Cloud Scheduler and Google Cloud Functions.
+4. Scheduled to run automatically (e.g., daily/weekly) using Google Cloud Scheduler and Google Cloud Functions.
 
 
 # Medium Article
