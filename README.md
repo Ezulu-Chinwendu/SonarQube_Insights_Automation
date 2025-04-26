@@ -1,4 +1,4 @@
-#SonarQube Metrics Automation: From SonarQube API to Looker Studio via Google Sheets
+# SonarQube Metrics Automation: From SonarQube API to Looker Studio via Google Sheets
 This project automates the extraction of code quality metrics from SonarQube and populates them into a Google Sheets document, which is then connected to Looker Studio for visualization and reporting.
 
 🔹 I have uploaded:
