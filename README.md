@@ -21,7 +21,7 @@ A detailed explanation of the project on Medium (link below)
 
 # Medium Article
 I have shared a full walkthrough of this project on Medium, including setup steps, challenges faced, and lessons learned.
-👉🏼 Read the article here (link your Medium article!)
+👉🏼 Read the article here: https://medium.com/@ezuluchinwe1/smarter-code-quality-reporting-automate-sonarqube-metrics-to-looker-studio-for-real-time-insights-1e52332bcec3
 
 
 
