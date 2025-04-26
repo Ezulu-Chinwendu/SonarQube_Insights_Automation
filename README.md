@@ -3,7 +3,8 @@ This project automates the extraction of code quality metrics from SonarQube and
 
 🔹 I have uploaded:
 
-The full Python script used for this automation
+1. The full Python script used for this automation - main.py
+2. Python dependencies required to run the script
 
 A detailed explanation of the project on Medium (link below)
 
